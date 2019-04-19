@@ -8,4 +8,4 @@ Carousel made with JQuery. Part of JQuery module of {reprograma} Online FrontEnd
 - CSS
 - JQuery
 
-##### Link: 
+##### Link: https://jandoso.github.io/carousel_jquery/
