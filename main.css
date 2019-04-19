@@ -1,0 +1,37 @@
+#caroulsel{
+    width: 800px;
+    height:600px;
+    margin: 50px 200px;
+    overflow: hidden;
+    box-shadow: 0 0 8px #000;
+    position: relative;
+}
+
+#carousel img{
+    position: absolute;
+    z-index: 1;
+    display: none;
+    left: 230px;
+
+}
+
+#carousel p {
+    z-index:2;
+    position: absolute; 
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 10px;  
+    font-family: 'Anton', sans-serif;
+    font-size: 25px; 
+    letter-spacing: 1px;
+    background: rgba(8, 95, 125, 0.459);  
+    color: #EAC407;
+    text-align: center;
+    }
+
+body {
+    background-color: #085F7D;
+}
+
+
